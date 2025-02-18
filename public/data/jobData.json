@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "company": "Tech Corp",
+      "location": "New York, NY",
+      "description": "Develop and maintain web applications...",
+      "requirements": ["Bachelor's degree in Computer Science", "Experience with React"],
+      "benefits": ["Health insurance", "Paid time off"],
+      "postedDate": "2024-07-26"
+    },
+    {
+      "id": "2",
+      "title": "Data Scientist",
+      "company": "Data Analytics Inc.",
+      "location": "San Francisco, CA",
+      "description": "Analyze large datasets and build machine learning models...",
+      "requirements": ["Master's degree in Statistics", "Experience with Python"],
+      "benefits": ["Competitive salary", "Stock options"],
+      "postedDate": "2024-07-25"
+    }
+]
+  
