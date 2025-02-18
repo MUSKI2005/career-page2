@@ -1,3 +1,23 @@
+
+career-page2/
+├── career-page2/
+│   ├── public/
+│   │   ├── data/
+│   │   │   └── jobData.json ##comprising of the description about the code
+│   │   └── ...
+│   ├── src/
+│   │   ├── app/
+             |--jobs/[id]
+                  |--page.js ##page for navigation
+            
+│   │   │── page.js ##main page
+│   │   └── ...
+│   ├── package.json
+│   ├── next.config.js
+│   └── ...
+├── node_modules/
+└── ...
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
